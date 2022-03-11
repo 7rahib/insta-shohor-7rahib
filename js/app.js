@@ -128,6 +128,7 @@ const createPost = (post) => {
                   <span class="post__date-time">30 minutes ago</span>
                 </div>
               </div>
+              
       `;
   return div;
 };
